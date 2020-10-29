@@ -1,0 +1,13 @@
+_Store 
+node_modules 
+.tmp 
+.jshintrc
+coverage
+dist
+.nyc_output
+.git
+.sass-cache
+.babel
+.nyc_output
+.vs
+bower_components
